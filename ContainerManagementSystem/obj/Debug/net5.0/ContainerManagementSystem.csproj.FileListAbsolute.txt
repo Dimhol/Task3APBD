@@ -1,0 +1,16 @@
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\bin\Debug\net5.0\ContainerManagementSystem.exe
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\bin\Debug\net5.0\ContainerManagementSystem.deps.json
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\bin\Debug\net5.0\ContainerManagementSystem.runtimeconfig.json
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\bin\Debug\net5.0\ContainerManagementSystem.runtimeconfig.dev.json
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\bin\Debug\net5.0\ContainerManagementSystem.dll
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\bin\Debug\net5.0\ref\ContainerManagementSystem.dll
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\bin\Debug\net5.0\ContainerManagementSystem.pdb
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\obj\Debug\net5.0\ContainerManagementSystem.csproj.AssemblyReference.cache
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\obj\Debug\net5.0\ContainerManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\obj\Debug\net5.0\ContainerManagementSystem.AssemblyInfoInputs.cache
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\obj\Debug\net5.0\ContainerManagementSystem.AssemblyInfo.cs
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\obj\Debug\net5.0\ContainerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\obj\Debug\net5.0\ContainerManagementSystem.dll
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\obj\Debug\net5.0\ref\ContainerManagementSystem.dll
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\obj\Debug\net5.0\ContainerManagementSystem.pdb
+C:\Users\holdm\RiderProjects\ConsoleApp1\ContainerManagementSystem\obj\Debug\net5.0\ContainerManagementSystem.genruntimeconfig.cache
